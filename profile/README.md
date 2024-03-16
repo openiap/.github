@@ -22,10 +22,9 @@ Follow us to stay updated on the latest developments. Let's build something grea
 - **Website**: [openiap.io](https://openiap.io)
 - **Video**: [youtube.com](https://www.youtube.com/results?search_query=openrpa)
 - **Linkedin**: [www.linkedin.com/in/skadefro](https://www.linkedin.com/in/skadefro/)
-- **Fediverse**: [social.openiap.io](https://social.openiap.io/)
 
 ## Fun Fact 🎉
-Did you know our team's favorite breakfast is a mix of coding and coffee? ☕👨‍💻
+Did you know our favorite breakfast is a mix of coding and coffee? ☕👨‍💻
 
 ---
 
