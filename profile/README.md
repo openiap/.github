@@ -1,10 +1,10 @@
 # Welcome to OpenIAP 👋
 
 ## Who We Are 🚀
-At OpenIAP, we're committed to revolutionizing automation with open-source software. We maintain a suite of projects including [OpenRPA](https://github.com/open-rpa/openrpa), [OpenIAP Flow](https://github.com/open-rpa/openflow), and [ML Studio](https://github.com/openiap/ml-studio), designed to empower developers and businesses alike.
+At OpenIAP, we're committed to revolutionizing automation with open-source software. We maintain a suite of projects including [OpenRPA](https://github.com/open-rpa/openrpa), [OpenIAP](https://github.com/open-rpa/openflow), and [ML Studio](https://github.com/openiap/ml-studio), designed to empower developers and businesses alike.
 
 ## What We Offer 🛠️
-- Run code seamlessly on [agents](https://github.com/openiap/nodeagent), [assistants](https://github.com/openiap/assistant), or within OpenIAP Flow.
+- Run code seamlessly on [agents](https://github.com/openiap/nodeagent), [assistants](https://github.com/openiap/assistant), or within OpenIAP.
 - Utilize our SDKs for [dotnet](https://github.com/openiap/dotnetapi), [python](https://github.com/openiap/pyapi), [nodejs](https://github.com/openiap/nodeapi), and [browser](https://github.com/openiap/jsapi).
 - Create custom frontends using templates in [Vue3](https://github.com/openiap/vue3-web-template), [Angular11](https://github.com/open-rpa/openflow-web-angular11-template), and [AngularJS](https://github.com/open-rpa/openflow-web-angularjs-template).
 - Enhance your developer experience with our [VS Code extension](https://github.com/openiap/vscode-assistant).
